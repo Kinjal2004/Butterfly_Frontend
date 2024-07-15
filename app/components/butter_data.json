@@ -1,0 +1,676 @@
+[
+    {
+        "name": "ADONIS",
+        "description": "Known for its vibrant blue wings, the Adonis Blue is a butterfly found in Europe and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Adonis_blue",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Polyommatus_bellargus_female.jpg"
+    },
+    {
+        "name": "AFRICAN GIANT SWALLOWTAIL",
+        "description": "One of the largest butterflies in Africa, known for its striking yellow and black pattern.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papilio_antimachus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Papilio_antimachus.jpg"
+    },
+    {
+        "name": "AMERICAN SNOOT",
+        "description": "The American Snout is distinctive for its elongated snout-like palpi.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/American_snout",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Libytheana_carinenta.jpg"
+    },
+    {
+        "name": "AN 88",
+        "description": "Named for the '88' pattern on its hindwings, this butterfly is native to Central and South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Diaethria_anna",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Diaethria_anna.jpg"
+    },
+    {
+        "name": "APPOLLO",
+        "description": "A high-altitude butterfly found in Europe and Central Asia, noted for its large size and eye spots.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Parnassius_apollo",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Parnassius_apollo.jpg"
+    },
+    {
+        "name": "ARCIGERA FLOWER MOTH",
+        "description": "A moth species known for its bright, flower-like coloration and patterning.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Schinia_arcigera",
+        "image_link": "https://mothphotographersgroup.msstate.edu/species.php?hodges=11156"
+    },
+    {
+        "name": "ATALA",
+        "description": "A small butterfly native to southeastern Florida and the Caribbean, recognized by its iridescent blue and black wings.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eumaeus_atala",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Atala_(Eumaeus_atala).jpg"
+    },
+    {
+        "name": "ATLAS MOTH",
+        "description": "One of the largest moths in the world, found in tropical and subtropical forests of Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Attacus_atlas",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Attacus_atlas_female_dorsal.jpg"
+    },
+    {
+        "name": "BANDED ORANGE HELICONIAN",
+        "description": "A striking butterfly with bright orange wings and black bands, found in the Americas.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dryadula_phoetia",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Dryadula_phoetia.jpg"
+    },
+    {
+        "name": "BANDED PEACOCK",
+        "description": "Known for its iridescent blue-green wings with eye spots, this butterfly is native to South Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Anartia_fatima",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Anartia_fatima.jpg"
+    },
+    {
+        "name": "BANDED TIGER MOTH",
+        "description": "A moth with bold black and white striped wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Apantesis_vittata",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Apantesis_vittata.jpg"
+    },
+    {
+        "name": "BECKERS WHITE",
+        "description": "A small white butterfly found in arid regions of the southwestern United States and northern Mexico.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pontia_beckerii",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Pontia_beckerii.jpg"
+    },
+    {
+        "name": "BIRD CHERRY ERMINE MOTH",
+        "description": "A moth known for its striking white wings with numerous black dots.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yponomeuta_evigella",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Yponomeuta_evigella.jpg"
+    },
+    {
+        "name": "BLACK HAIRSTREAK",
+        "description": "A butterfly with dark brown wings and delicate tail-like extensions, found in Europe and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Satyrium_pruni",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Satyrium_pruni.jpg"
+    },
+    {
+        "name": "BLUE MORPHO",
+        "description": "Famous for its large, iridescent blue wings, this butterfly inhabits the rainforests of Central and South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morpho_menelaus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Morpho_menelaus.jpg"
+    },
+    {
+        "name": "BLUE SPOTTED CROW",
+        "description": "A butterfly with blue and black patterned wings, found in South and Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Euploea_midamus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Euploea_midamus.jpg"
+    },
+    {
+        "name": "BROOKES BIRDWING",
+        "description": "A large and colorful butterfly native to the rainforests of Borneo.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Troides_brookiana",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Troides_brookiana.jpg"
+    },
+    {
+        "name": "BROWN ARGUS",
+        "description": "A small butterfly with brown wings and orange spots, found in Europe and parts of Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aricia_agestis",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Aricia_agestis.jpg"
+    },
+    {
+        "name": "BROWN SIPROETA",
+        "description": "A butterfly with striking brown and orange wings, found in Central and South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Siproeta_stelenes",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Siproeta_stelenes.jpg"
+    },
+    {
+        "name": "CABBAGE WHITE",
+        "description": "A common butterfly with white wings and black spots, often found in gardens and fields.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pieris_rapae",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Pieris_rapae.jpg"
+    },
+    {
+        "name": "CAIRNS BIRDWING",
+        "description": "One of Australia's largest butterflies, known for its bright green and yellow wings.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ornithoptera_priamus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Ornithoptera_priamus.jpg"
+    },
+    {
+        "name": "CHALK HILL BLUE",
+        "description": "A butterfly with pale blue wings, found in Europe and preferring chalk grassland habitats.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Polyommatus_coridon",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Polyommatus_coridon.jpg"
+    },
+    {
+        "name": "CHECQUERED SKIPPER",
+        "description": "A small butterfly with distinctive checkered wing patterns, found in Europe and North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Carterocephalus_palaemon",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Carterocephalus_palaemon.jpg"
+    },
+    {
+        "name": "CHESTNUT",
+        "description": "A moth known for its chestnut brown color and distinctive wing shape, found in Europe and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Conistra_vaccinii",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Conistra_vaccinii.jpg"
+    },
+    {
+        "name": "CINNABAR MOTH",
+        "description": "A brightly colored moth with red and black wings, found in Europe and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tyria_jacobaeae",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Tyria_jacobaeae.jpg"
+    },
+    {
+        "name": "CLEARWING MOTH",
+        "description": "A moth with transparent wings, often mimicking the appearance of wasps or bees.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sesiidae",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Sesiidae.jpg"
+    },
+    {
+        "name": "CLEOPATRA",
+        "description": "A butterfly with lemon-yellow wings, found in Europe and North Africa.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gonepteryx_cleopatra",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Gonepteryx_cleopatra.jpg"
+    },
+    {
+        "name": "CLODIUS PARNASSIAN",
+        "description": "A butterfly with translucent wings and black and red spots, found in the mountains of North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Parnassius_clodius",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Parnassius_clodius.jpg"
+    },
+    {
+        "name": "CLOUDED SULPHUR",
+        "description": "A butterfly with yellow wings and small black markings, common in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colias_philodice",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Colias_philodice.jpg"
+    },
+    {
+        "name": "COMET MOTH",
+        "description": "A large and colorful moth from Madagascar, known for its long tail streamers.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argema_mittrei",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Argema_mittrei.jpg"
+    },
+    {
+        "name": "COMMON BANDED AWL",
+        "description": "A butterfly with dark brown wings and distinctive white bands, found in South Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hasora_chromus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Hasora_chromus.jpg"
+    },
+    {
+        "name": "COMMON WOOD-NYMPH",
+        "description": "A butterfly with brown wings and eye spots, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cercyonis_pegala",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Cercyonis_pegala.jpg"
+    },
+    {
+        "name": "COPPER TAIL",
+        "description": "A butterfly with copper-colored wings and a small tail, found in Europe and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lycaena_phlaeas",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Lycaena_phlaeas.jpg"
+    },
+    {
+        "name": "CRECENT",
+        "description": "A small butterfly with orange and black patterned wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Phyciodes",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Phyciodes.jpg"
+    },
+    {
+        "name": "CRIMSON PATCH",
+        "description": "A butterfly with bright red and black wings, found in Central and South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chlosyne_janais",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Chlosyne_janais.jpg"
+    },
+    {
+        "name": "DANAID EGGFLY",
+        "description": "A butterfly with black wings and blue patches, found in South and Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hypolimnas_misippus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Hypolimnas_misippus.jpg"
+    },
+    {
+        "name": "EASTERN COMA",
+        "description": "A butterfly with orange and brown wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Polygonia_comma",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Polygonia_comma.jpg"
+    },
+    {
+        "name": "EASTERN DAPPLE WHITE",
+        "description": "A butterfly with white wings and black markings, found in eastern North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Euchloe_ausonides",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Euchloe_ausonides.jpg"
+    },
+    {
+        "name": "EASTERN PINE ELFIN",
+        "description": "A small butterfly with brown wings, found in pine forests of eastern North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Callophrys_niphon",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Callophrys_niphon.jpg"
+    },
+    {
+        "name": "ELBOWED PIERROT",
+        "description": "A small butterfly with white and black markings, found in South Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Caleta_elna",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Caleta_elna.jpg"
+    },
+    {
+        "name": "EMPEROR GUM MOTH",
+        "description": "A large moth with striking eyespots on its wings, found in Australia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Opodiphthera_eucalypti",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Opodiphthera_eucalypti.jpg"
+    },
+    {
+        "name": "GARDEN TIGER MOTH",
+        "description": "A moth with bold black and white wing patterns, found in Europe and North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arctia_caja",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Arctia_caja.jpg"
+    },
+    {
+        "name": "GIANT LEOPARD MOTH",
+        "description": "A moth with striking white wings covered in black rings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hypercompe_scribonia",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Hypercompe_scribonia.jpg"
+    },
+    {
+        "name": "GLITTERING SAPPHIRE",
+        "description": "A butterfly with iridescent blue wings, found in South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hamadryas_glaucippe",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Hamadryas_glaucippe.jpg"
+    },
+    {
+        "name": "GOLD BANDED",
+        "description": "A butterfly with golden bands across its wings, found in Central and South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eueides_isabella",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Eueides_isabella.jpg"
+    },
+    {
+        "name": "GREAT EGGFLY",
+        "description": "A butterfly with black wings and white spots, found in South and Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hypolimnas_bolina",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Hypolimnas_bolina.jpg"
+    },
+    {
+        "name": "GREAT JAY",
+        "description": "A large butterfly with blue and black wings, found in South and Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Graphium_euryplus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Graphium_euryplus.jpg"
+    },
+    {
+        "name": "GREEN CELLED CATTLEHEART",
+        "description": "A butterfly with green and black wings, found in South and Central America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Parides_childrenae",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Parides_childrenae.jpg"
+    },
+    {
+        "name": "GREEN HAIRSTREAK",
+        "description": "A butterfly with bright green wings, found in Europe, Asia, and North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Callophrys_rubi",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Callophrys_rubi.jpg"
+    },
+    {
+        "name": "GREY HAIRSTREAK",
+        "description": "A butterfly with grey wings and red-orange spots, found in North and Central America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Strymon_melinus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Strymon_melinus.jpg"
+    },
+    {
+        "name": "HERCULES MOTH",
+        "description": "One of the largest moths in the world, found in Australia and New Guinea.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Coscinocera_hercules",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Coscinocera_hercules.jpg"
+    },
+    {
+        "name": "HUMMING BIRD HAWK MOTH",
+        "description": "A moth that mimics the flight of hummingbirds, found in Europe, Asia, and Africa.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Macroglossum_stellatarum",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Macroglossum_stellatarum.jpg"
+    },
+    {
+        "name": "INDRA SWALLOW",
+        "description": "A butterfly with black and yellow wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papilio_indra",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Papilio_indra.jpg"
+    },
+    {
+        "name": "IO MOTH",
+        "description": "A moth with large eye spots on its hindwings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Automeris_io",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Automeris_io.jpg"
+    },
+    {
+        "name": "IPHICLUS SISTER",
+        "description": "A butterfly with black and white striped wings, found in Central and South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Adelpha_iphiclus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Adelpha_iphiclus.jpg"
+    },
+    {
+        "name": "JULIA",
+        "description": "A butterfly with bright orange wings, found in the Americas.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dryas_iulia",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Dryas_iulia.jpg"
+    },
+    {
+        "name": "LARGE MARBLE",
+        "description": "A butterfly with marbled white and green wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Euchloe_gryneus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Euchloe_gryneus.jpg"
+    },
+    {
+        "name": "LUNA MOTH",
+        "description": "A large moth with pale green wings and long tails, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Actias_luna",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Actias_luna.jpg"
+    },
+    {
+        "name": "MADAGASCAN SUNSET MOTH",
+        "description": "A day-flying moth with iridescent colors, found in Madagascar.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chrysiridia_rhipheus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Chrysiridia_rhipheus.jpg"
+    },
+    {
+        "name": "MALACHITE",
+        "description": "A butterfly with bright green and black wings, found in Central and South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Siproeta_stelenes",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Siproeta_stelenes.jpg"
+    },
+    {
+        "name": "MANGROVE SKIPPER",
+        "description": "A butterfly with dark blue wings and white spots, found in the mangroves of the Americas.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Phocides_pigmalion",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Phocides_pigmalion.jpg"
+    },
+    {
+        "name": "MESTRA",
+        "description": "A butterfly with brown and orange patterned wings, found in the Americas.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mestra",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Mestra.jpg"
+    },
+    {
+        "name": "METALMARK",
+        "description": "A butterfly with metallic-looking wings, found in the Americas.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Riodinidae",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Riodinidae.jpg"
+    },
+    {
+        "name": "MILBERTS TORTOISESHELL",
+        "description": "A butterfly with orange and black wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aglais_milberti",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Aglais_milberti.jpg"
+    },
+    {
+        "name": "MONARCH",
+        "description": "A well-known butterfly with orange and black wings, famous for its long migrations.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Danaus_plexippus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Danaus_plexippus.jpg"
+    },
+    {
+        "name": "MOURNING CLOAK",
+        "description": "A butterfly with dark wings and yellow edges, found in North America and Eurasia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nymphalis_antiopa",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Nymphalis_antiopa.jpg"
+    },
+    {
+        "name": "OLEANDER HAWK MOTH",
+        "description": "A large moth with green and pink patterns, found in Africa and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Daphnis_nerii",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Daphnis_nerii.jpg"
+    },
+    {
+        "name": "ORANGE OAKLEAF",
+        "description": "A butterfly with orange and brown wings, known for its leaf-like camouflage.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kallima_inachus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Kallima_inachus.jpg"
+    },
+    {
+        "name": "ORANGE TIP",
+        "description": "A butterfly with white wings and orange tips, found in Europe and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Anthocharis_cardamines",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Anthocharis_cardamines.jpg"
+    },
+    {
+        "name": "ORCHARD SWALLOW",
+        "description": "A butterfly with black and blue wings, found in the Americas.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papilio_aristodemus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Papilio_aristodemus.jpg"
+    },
+    {
+        "name": "PAINTED LADY",
+        "description": "A butterfly with orange, black, and white wings, found worldwide.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vanessa_cardui",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Vanessa_cardui.jpg"
+    },
+    {
+        "name": "PAPER KITE",
+        "description": "A butterfly with white and black patterned wings, found in Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idea_leuconoe",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Idea_leuconoe.jpg"
+    },
+    {
+        "name": "PEACOCK",
+        "description": "A butterfly with colorful eye spots on its wings, found in Europe and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aglais_io",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Aglais_io.jpg"
+    },
+    {
+        "name": "PINE WHITE",
+        "description": "A butterfly with white wings and black markings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Neophasia_menapia",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Neophasia_menapia.jpg"
+    },
+    {
+        "name": "PIPEVINE SWALLOW",
+        "description": "A butterfly with blue and black wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Battus_philenor",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Battus_philenor.jpg"
+    },
+    {
+        "name": "POLYPHEMUS MOTH",
+        "description": "A large moth with eye spots on its wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antheraea_polyphemus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Antheraea_polyphemus.jpg"
+    },
+    {
+        "name": "POPINJAY",
+        "description": "A butterfly with black and white striped wings, found in South and Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stibochiona_selene",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Stibochiona_selene.jpg"
+    },
+    {
+        "name": "PURPLE HAIRSTREAK",
+        "description": "A butterfly with purple wings and white spots, found in Europe and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Neozephyrus_quercus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Neozephyrus_quercus.jpg"
+    },
+    {
+        "name": "PURPLE SHOT COPPER",
+        "description": "A butterfly with copper-colored wings and purple spots, found in Europe.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lycaena_alcippus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Lycaena_alcippus.jpg"
+    },
+    {
+        "name": "QUEEN ALEXANDRA'S BIRDWING",
+        "description": "The largest butterfly in the world, found in Papua New Guinea.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ornithoptera_alexandrae",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Ornithoptera_alexandrae.jpg"
+    },
+    {
+        "name": "QUEEN",
+        "description": "A butterfly with brown wings and white spots, found in the Americas.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Danaus_gilippus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Danaus_gilippus.jpg"
+    },
+    {
+        "name": "RADIANT MAPWING",
+        "description": "A butterfly with bright orange and black patterned wings, found in South Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyrestis_thyodamas",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Cyrestis_thyodamas.jpg"
+    },
+    {
+        "name": "RED ADMIRAL",
+        "description": "A butterfly with red, black, and white wings, found in Europe, Asia, and North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vanessa_atalanta",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Vanessa_atalanta.jpg"
+    },
+    {
+        "name": "REGAL MOTH",
+        "description": "A large moth with orange and yellow wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Citheronia_regalis",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Citheronia_regalis.jpg"
+    },
+    {
+        "name": "RICE PAPER BUTTERFLY",
+        "description": "A butterfly with white and black patterned wings, found in Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idea_leuconoe",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Idea_leuconoe.jpg"
+    },
+    {
+        "name": "ROSY MAPLE MOTH",
+        "description": "A small moth with pink and yellow wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dryocampa_rubicunda",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Dryocampa_rubicunda.jpg"
+    },
+    {
+        "name": "RUBY SPOTTED SWALLOW",
+        "description": "A butterfly with black and blue wings and ruby-red spots, found in South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Parides_arcas",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Parides_arcas.jpg"
+    },
+    {
+        "name": "SAILOR",
+        "description": "A butterfly with black and white striped wings, found in South Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Neptis_hylas",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Neptis_hylas.jpg"
+    },
+    {
+        "name": "SATURN MOTH",
+        "description": "A large moth with eyespots on its wings, found in South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saturniidae",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Saturniidae.jpg"
+    },
+    {
+        "name": "SCARLET MORMON",
+        "description": "A butterfly with black and red wings, found in South Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papilio_rumanzovia",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Papilio_rumanzovia.jpg"
+    },
+    {
+        "name": "SHINING LEAFWING",
+        "description": "A butterfly with iridescent blue and green wings, found in South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cymothoe",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Cymothoe.jpg"
+    },
+    {
+        "name": "SILVER BLUE",
+        "description": "A butterfly with silver-blue wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Glaucopsyche_lygdamus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Glaucopsyche_lygdamus.jpg"
+    },
+    {
+        "name": "SILVER WASHED FRITILLARY",
+        "description": "A butterfly with orange and black patterned wings, found in Europe and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argynnis_paphia",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Argynnis_paphia.jpg"
+    },
+    {
+        "name": "SIX SPOT BURNET",
+        "description": "A moth with black wings and red spots, found in Europe.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zygaena_filipendulae",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Zygaena_filipendulae.jpg"
+    },
+    {
+        "name": "SLEEPY ORANGE",
+        "description": "A butterfly with orange wings and black spots, found in the Americas.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abaeis_nicippe",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Abaeis_nicippe.jpg"
+    },
+    {
+        "name": "SMALL TORTOISESHELL",
+        "description": "A butterfly with orange and black patterned wings, found in Europe and Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aglais_urticae",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Aglais_urticae.jpg"
+    },
+    {
+        "name": "SNAKE SWALLOW",
+        "description": "A butterfly with black and yellow patterned wings, found in Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Graphium_dosmieres",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Graphium_dosmieres.jpg"
+    },
+    {
+        "name": "SPICEBUSH SWALLOW",
+        "description": "A butterfly with black wings and blue spots, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papilio_troilus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Papilio_troilus.jpg"
+    },
+    {
+        "name": "STRAIGHT LINED MAPWING",
+        "description": "A butterfly with black and white striped wings, found in South Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyrestis_thyodamas",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Cyrestis_thyodamas.jpg"
+    },
+    {
+        "name": "STRIPED BLUE CROW",
+        "description": "A butterfly with blue and black wings, found in South and Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Euploea_mulciber",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Euploea_mulciber.jpg"
+    },
+    {
+        "name": "SULTAN",
+        "description": "A butterfly with black and white patterned wings, found in Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bassarona_teuta",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Bassarona_teuta.jpg"
+    },
+    {
+        "name": "TAILED JAY",
+        "description": "A butterfly with black and green wings, found in South and Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Graphium_agamemnon",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Graphium_agamemnon.jpg"
+    },
+    {
+        "name": "TITAN",
+        "description": "A butterfly with large brown wings, found in South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Prepona_omphale",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Prepona_omphale.jpg"
+    },
+    {
+        "name": "TREE NYMPH",
+        "description": "A butterfly with white and black patterned wings, found in Southeast Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idea_leuconoe",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Idea_leuconoe.jpg"
+    },
+    {
+        "name": "TROPICAL LEAFWING",
+        "description": "A butterfly with orange and brown wings, found in Central and South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Consul_fabius",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Consul_fabius.jpg"
+    },
+    {
+        "name": "URANIA MOTH",
+        "description": "A day-flying moth with iridescent green and black wings, found in South America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Urania_leilus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Urania_leilus.jpg"
+    },
+    {
+        "name": "VICEROY",
+        "description": "A butterfly with orange and black wings, mimics the Monarch butterfly, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limenitis_archippus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Limenitis_archippus.jpg"
+    },
+    {
+        "name": "WALKER'S MAPWING",
+        "description": "A butterfly with black and white patterned wings, found in South Asia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyrestis_thyodamas",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Cyrestis_thyodamas.jpg"
+    },
+    {
+        "name": "WHITE ADMIRAL",
+        "description": "A butterfly with black wings and white bands, found in North America and Eurasia.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limenitis_camilla",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Limenitis_camilla.jpg"
+    },
+    {
+        "name": "WOOD NYMPH",
+        "description": "A butterfly with brown wings and eye spots, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cercyonis_pegala",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Cercyonis_pegala.jpg"
+    },
+    {
+        "name": "YELLOW SWALLOWTAIL",
+        "description": "A butterfly with yellow and black wings, found in North America.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papilio_glaucus",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Papilio_glaucus.jpg"
+    },
+    {
+        "name": "ZEBRA LONGWING",
+        "description": "A butterfly with black and yellow striped wings, found in the Americas.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Heliconius_charithonia",
+        "image_link": "https://commons.wikimedia.org/wiki/File:Heliconius_charithonia.jpg"
+    }
+]
+
+
